@@ -23,6 +23,7 @@
 
 # Resources
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+  - https://www.dataquest.io/blog/python-projects-for-beginners/
 # Links
 
 
