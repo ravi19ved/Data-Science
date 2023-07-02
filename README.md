@@ -18,6 +18,7 @@
   - https://github.com/topics/python-mini-projects
   - https://github.com/Python-World/python-mini-projects
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+  - https://www.mltut.com/best-free-online-courses-for-statistics/
 # Books
 
 # Resources
