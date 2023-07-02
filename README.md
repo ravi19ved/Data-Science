@@ -5,11 +5,23 @@
 # Objectives
 
 # References
+# data-science-learning-resources
 
+  - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
+
+# python-mini-projects-resources
+
+  - https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
+  - https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
+  - https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
+  - https://github.com/topics/python-projects
+  - https://github.com/topics/python-mini-projects
+  - https://github.com/Python-World/python-mini-projects
+  - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
 # Books
 
 # Resources
-
+  - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
 # Links
 
 
