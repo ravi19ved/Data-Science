@@ -28,6 +28,9 @@
   - https://www.dataquest.io/blog/python-projects-for-beginners/
 # Links
 
+# Project-Links
+https://www.geeksforgeeks.org/python-programming-examples/?ref=shm
+https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=shm
 
 # Others
 Here are some of the best free #resources to learn. If you find this helpful, please #share it with others!
