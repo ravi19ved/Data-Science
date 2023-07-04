@@ -10,6 +10,7 @@
   - https://www.upgrad.com/data-science-free-course/?utm_source=BLOG&utm_campaign=BLOG_FCWIDGET
   - https://www.dataquest.io/data-science-courses/
   - https://www.dataquest.io/path/python-basics-for-data-analysis/
+  - https://zealoq.com/feed/view/card/949/a-step-by-step-roadmap-to-learn-ai-ml-by-the-end-of-2023-from-scratch?utm_user=24305
 
 # python-mini-projects-resources
 
